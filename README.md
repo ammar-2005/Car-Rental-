@@ -33,22 +33,6 @@ A modern and engaging landing page for a car rental platform, meticulously desig
 > 
 > `![Project Preview](./path-to-your-image.png)`
 
----
-
-## 🚀 Getting Started
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/ammar-2005/Car-Rental.git](https://github.com/ammar-2005/Car-Rental.git)
-    ```
-2.  **Navigate to the folder:**
-    ```bash
-    cd Car-Rental
-    ```
-3.  **Launch the project:**
-    Simply open `index.html` in your favorite browser.
-
----
 
 
 
