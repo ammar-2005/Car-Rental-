@@ -27,15 +27,4 @@ A modern and engaging landing page for a car rental platform, meticulously desig
 
 ---
 
-## 📸 Project Preview
-
-> **Tip:** Add a beautiful screenshot of your landing page here to grab attention!
-> 
-> `![Project Preview](./path-to-your-image.png)`
-
-
-
-
----
-
 **Developed with ❤️ by [Ammar]**
